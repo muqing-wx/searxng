@@ -7,7 +7,7 @@ general:
   instance_name: "一个很优雅的搜索引擎"
 
 search:
-  safe_search: 2
+  safe_search: 0
   autocomplete: 'duckduckgo'
   formats:
     - html
