@@ -4,7 +4,7 @@ use_default_settings: true
 
 general:
   debug: false
-  instance_name: "SearXNG"
+  instance_name: "一个优雅的搜索引擎"
 
 search:
   safe_search: 2
